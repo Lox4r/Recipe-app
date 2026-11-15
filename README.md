@@ -36,3 +36,7 @@ Week 02 - Project setup and specification.
 ## Course
 WDD 430 - Web Full-Stack Development
 BYU-Idaho
+
+## Team Members
+
+- Logan Oyolo — Project developer
